@@ -1,0 +1,3 @@
+UF2 Bootloader v3.13.0-9-g2fd0593-dirty FAO
+Model: DEF CON 29 Badge
+Board-ID: SAMD21G16B-dc29-v0
